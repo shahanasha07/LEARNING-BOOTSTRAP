@@ -1,0 +1,83 @@
+.bg-color{
+    background-color:rgb(121, 35, 251) !important;
+}
+.logo{
+    height:40px;
+    width: 50px;
+    position:relative;
+    left: 10%;
+}
+.logo:hover{
+    transform: rotate(-10deg) !important ;
+}
+.nav a{
+    margin-left:12%;
+    color: white;
+    border: none;
+   
+}
+.nav a img{
+    width: 30px;
+    margin-left:-10px;
+    margin-top:7px;
+    border-right: 1px solid gray;
+   
+}
+.input{
+    margin-left: -150%;
+    width:120% !important;
+    background-color: rgba(137, 43, 226, 0.315) !important;
+  
+}
+.input:hover{
+    box-shadow:2px 2px 26px #d4aad5;
+}
+.right{
+    position: relative;
+    right: 10%;
+}
+.button{
+    position: relative;
+    top: 10px;
+    background-color:transparent !important;
+}
+.btn1{
+    border-right: 1px solid grey !important;
+}
+form i{
+    font-size:25px !important;
+    position: relative;
+    right:120%;
+    top:7px;
+    color: white;
+}
+form ::placeholder{
+    padding-left:30px !important;
+    color: white !important;
+}
+form button{
+    height: 30px;
+    position: relative;
+    right:30%;
+    top:4px;
+    background-color: rgb(96, 4, 183);
+    border: none;
+    color: white;
+    font-size: 10px;
+    font-weight: 500;
+    border-radius:3px;
+}
+.nav i{
+    font-size: 20px;
+   
+}
+.dark{
+    width:25px !important;
+    border: none !important;
+    margin-left:0px !important;
+    margin-top: 5px !important;
+}
+.bg:hover{
+    background-color: blueviolet !important;
+    width:80% !important;
+}
